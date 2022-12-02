@@ -6,6 +6,7 @@ I don't have any specific objective with these, so projects may be in whatever l
 
 ## 2022
 
-| Day | Title                   | Link                                                                                               | Language(s) |
-| --- | ----------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
-| 1   | Day 1: Calorie Counting | [Day 1](https://adventofcode.com/2022/day/1) - [Part 2](https://adventofcode.com/2022/day/1#part2) | js          |
+| Day | Title | Link | Language(s) |
+| --- | --- | --- | --- |
+| 1 | Day 1: Calorie Counting | [Day 1](https://adventofcode.com/2022/day/1) - [Part 2](https://adventofcode.com/2022/day/1#part2) | js |
+| 2 | Day 2: Rock Paper Scissors | [Day 2](https://adventofcode.com/2022/day/2) - [Part 2](https://adventofcode.com/2022/day/2#part2) | js |
