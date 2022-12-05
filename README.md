@@ -12,3 +12,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 2 | Day 2: Rock Paper Scissors | [Day 2](https://adventofcode.com/2022/day/2) - [Part 2](https://adventofcode.com/2022/day/2#part2) | js |
 | 3 | Day 3: Rucksack Reorganization | [Day 3](https://adventofcode.com/2022/day/3) - [Part 2](https://adventofcode.com/2022/day/3#part2) | js |
 | 4 | Day 4: Camp Cleanup | [Day 4](https://adventofcode.com/2022/day/4) - [Part 2](https://adventofcode.com/2022/day/4#part2) | js |
+| 5 | Day 5: Supply Stacks | [Day 5](https://adventofcode.com/2022/day/5) - [Part 2](https://adventofcode.com/2022/day/5#part2) | js |
