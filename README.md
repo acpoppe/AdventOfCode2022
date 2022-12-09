@@ -15,3 +15,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 5   | Day 5: Supply Stacks           | [Day 5](https://adventofcode.com/2022/day/5) - [Part 2](https://adventofcode.com/2022/day/5#part2) | js          |
 | 6   | Day 6: Tuning Trouble          | [Day 6](https://adventofcode.com/2022/day/6) - [Part 2](https://adventofcode.com/2022/day/6#part2) | js          |
 | 7   | Day 7: No Space Left On Device | [Day 7](https://adventofcode.com/2022/day/7) - [Part 2](https://adventofcode.com/2022/day/7#part2) | js          |
+| 8   | Day 8: Treetop Tree House      | [Day 8](https://adventofcode.com/2022/day/8) - [Part 2](https://adventofcode.com/2022/day/8#part2) | js          |
