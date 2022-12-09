@@ -161,8 +161,8 @@ function processCMD(nextCommands, tree, path) {
 }
 
 let tree = mapTree(input);
-console.log(tree.totalOfDirectoriesUnderSizeLimit());
+console.log(`Part 1: ${tree.totalOfDirectoriesUnderSizeLimit()}`);
 
 // Part 2
 const totalUsed = tree.getSize();
-console.log(tree.sizeOfDirectoryToDelete(totalUsed));
+console.log(`Part 2: ${tree.sizeOfDirectoryToDelete(totalUsed)}`);
