@@ -1,0 +1,11 @@
+{
+  "name": "12",
+  "version": "1.0.0",
+  "description": "Day 12 of Advent of Code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allison Poppe",
+  "license": "MIT"
+}
