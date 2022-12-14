@@ -20,3 +20,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 10  | Day 10: Cathode-Ray Tube        | [Day 10](https://adventofcode.com/2022/day/10) - [Part 2](https://adventofcode.com/2022/day/10#part2) | js          |
 | 11  | Day 11: Monkey in the Middle    | [Day 11](https://adventofcode.com/2022/day/11) - [Part 2](https://adventofcode.com/2022/day/11#part2) | js          |
 | 12  | Day 12: Hill Climbing Algorithm | [Day 12](https://adventofcode.com/2022/day/12) - [Part 2](https://adventofcode.com/2022/day/12#part2) | js          |
+| 13  | Day 13: Distress Signal         | [Day 13](https://adventofcode.com/2022/day/13) - [Part 2](https://adventofcode.com/2022/day/13#part2) | js          |
