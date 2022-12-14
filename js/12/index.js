@@ -155,7 +155,6 @@ visitNode(terrainP2, visitingQueueP2, endingP2, true);
 
 while (visitingQueueP2.size > 0) {
   let visitingNodeP2 = getMinVisiting(visitingQueueP2);
-  console.log(visitingNodeP2.height);
   visitNode(terrainP2, visitingQueueP2, visitingNodeP2, true);
 }
 console.log(`Part 2: ${getLeastA().distance}`);
