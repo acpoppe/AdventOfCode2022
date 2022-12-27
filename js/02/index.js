@@ -1,4 +1,5 @@
 const fs = require("fs");
+console.time("time");
 
 const winPoints = 6;
 const drawPoints = 3;
@@ -150,3 +151,5 @@ let correctScores = outcomeRounds.map((round) => {
 let totalCorrectScores = correctScores.reduce((a, b) => a + b, 0);
 
 console.log("Part 2: " + totalCorrectScores);
+
+console.timeEnd("time");

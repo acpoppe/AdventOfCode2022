@@ -1,6 +1,6 @@
 const fs = require("fs");
-
 const filename = "input.txt";
+console.time("time");
 
 function isVisible(x, y, highestSoFar, input, total) {
   let add = false;
@@ -160,3 +160,5 @@ for (let y = 0; y < p2Parsed.length; y++) {
 }
 
 console.log(`Part 2: ${max}`);
+
+console.timeEnd("time");

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 class Node {
   constructor(
@@ -158,3 +159,5 @@ while (visitingQueueP2.size > 0) {
   visitNode(terrainP2, visitingQueueP2, visitingNodeP2, true);
 }
 console.log(`Part 2: ${getLeastA().distance}`);
+
+console.timeEnd("time");

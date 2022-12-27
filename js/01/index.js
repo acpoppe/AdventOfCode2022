@@ -1,4 +1,5 @@
 const fs = require("fs");
+console.time("time");
 
 const file = fs.readFileSync("input.txt", "utf8", (err, data) => {
   if (err) throw err;
@@ -47,3 +48,5 @@ const total = top3Totals.reduce((acc, cur) => {
 });
 
 console.log("Part 2: " + total);
+
+console.timeEnd("time");

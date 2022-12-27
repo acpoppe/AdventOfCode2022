@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 class Monkey {
   inspectedItemCount = 0;
@@ -136,3 +137,5 @@ let m = getM(p2Monkies);
 performRounds(p2Monkies, 10000, false, m);
 
 console.log(`Part 2: ${getMonkeyBusiness(p2Monkies)}`);
+
+console.timeEnd("time");

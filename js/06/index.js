@@ -1,6 +1,6 @@
 const fs = require("fs");
-
 const filename = "input.txt";
+console.time("time");
 
 let input = fs.readFileSync(filename, "utf8").split("");
 
@@ -39,3 +39,5 @@ console.log(`Part 1: ${getStartOfPacketMarker(input)}`);
 // Part 2
 
 console.log(`Part 2: ${getStartOfMessageMarker(input)}`);
+
+console.timeEnd("time");

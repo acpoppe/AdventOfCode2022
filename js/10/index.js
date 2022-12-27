@@ -1,6 +1,7 @@
 const fs = require("fs");
-
 const filename = "input.txt";
+console.time("time");
+
 let instructions = fs.readFileSync(filename, "utf8").split("\n");
 
 function addInstructionToQueue(operation, value) {
@@ -80,3 +81,5 @@ function printScreen() {
 }
 
 console.log(`Part 2: \n${printScreen()}`);
+
+console.timeEnd("time");

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 const [stacks, instructions] = fs.readFileSync(filename, "utf8").split("\n\n");
 
@@ -78,3 +79,5 @@ let topCrates9001 = getTopCrates(
 );
 
 console.log(`Part 2: ${topCrates9001.join("")}`);
+
+console.timeEnd("time");

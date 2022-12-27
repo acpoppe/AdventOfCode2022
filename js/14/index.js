@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 function makeMap(maxX, minX, maxY) {
   let map = [];
@@ -175,3 +176,5 @@ while (sandX !== 500 || sandY !== 0) {
 }
 
 console.log(`Part 2: ${sandCount2}`);
+
+console.timeEnd("time");

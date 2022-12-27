@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 let solveCache = new Map();
 let secondCache = new Map();
@@ -109,3 +110,5 @@ console.log(`Part 1: ${solve(data["AA"], 30, [])}`);
 solveCache = new Map();
 secondCache = new Map();
 console.log(`Part 2: ${solve(data["AA"], 26, [], true)}`);
+
+console.timeEnd("time");

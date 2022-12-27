@@ -1,4 +1,5 @@
 const fs = require("fs");
+console.time("time");
 
 const filename = "input.txt";
 
@@ -74,3 +75,5 @@ let badgeValue = groups
   }, 0);
 
 console.log("Part 2: " + badgeValue);
+
+console.timeEnd("time");

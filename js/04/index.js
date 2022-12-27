@@ -1,4 +1,5 @@
 const fs = require("fs");
+console.time("time");
 
 function isFullyContained(pair) {
   let [firstRange, secondRange] = pair.split(",").map(makeRange);
@@ -40,3 +41,5 @@ console.log(`Part 1: ${count}`);
 
 let overlapCount = pairs.map(containsAtAll).filter((v) => v).length;
 console.log(`Part 2: ${overlapCount}`);
+
+console.timeEnd("time");

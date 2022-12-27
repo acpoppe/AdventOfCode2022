@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 function comparePair(first, second) {
   if (
@@ -121,3 +122,5 @@ console.log(
     (flatPairs.indexOf("[[6]]") + 1) * (flatPairs.indexOf("[[2]]") + 1)
   }`
 );
+
+console.timeEnd("time");

@@ -1,6 +1,6 @@
 const fs = require("fs");
-
 const filename = "input.txt";
+console.time("time");
 
 function convertPosToKey(pos) {
   return `${pos.x},${pos.y}`;
@@ -114,3 +114,5 @@ for (let i = 0; i < input.length; i++) {
 }
 
 console.log(`Part 2: ${part2Visited.size}`);
+
+console.timeEnd("time");

@@ -1,5 +1,6 @@
 const fs = require("fs");
 const filename = "input.txt";
+console.time("time");
 
 function posIsInSensorRange(posX, posY) {
   for (let i = 0; i < sensorData.length; i++) {
@@ -133,3 +134,5 @@ outer: for (let j = 0; j < sensorData.length; j++) {
     }
   }
 }
+
+console.timeEnd("time");

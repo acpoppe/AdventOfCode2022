@@ -1,6 +1,7 @@
 const fs = require("fs");
-
 const filename = "input.txt";
+console.time("time");
+
 const sizeLimit = 100000;
 const diskspaceAvailable = 70000000;
 const neededSpace = 30000000;
@@ -166,3 +167,5 @@ console.log(`Part 1: ${tree.totalOfDirectoriesUnderSizeLimit()}`);
 // Part 2
 const totalUsed = tree.getSize();
 console.log(`Part 2: ${tree.sizeOfDirectoryToDelete(totalUsed)}`);
+
+console.timeEnd("time");
