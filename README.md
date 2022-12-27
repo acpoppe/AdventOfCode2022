@@ -23,3 +23,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 13  | Day 13: Distress Signal         | [Day 13](https://adventofcode.com/2022/day/13) - [Part 2](https://adventofcode.com/2022/day/13#part2) | js          |
 | 14  | Day 14: Regolith Reservoir      | [Day 14](https://adventofcode.com/2022/day/14) - [Part 2](https://adventofcode.com/2022/day/14#part2) | js          |
 | 15  | Day 15: Beacon Exclusion Zone   | [Day 15](https://adventofcode.com/2022/day/15) - [Part 2](https://adventofcode.com/2022/day/15#part2) | js          |
+| 16  | Day 16: Proboscidea Volcanium   | [Day 16](https://adventofcode.com/2022/day/16) - [Part 2](https://adventofcode.com/2022/day/16#part2) | js          |
