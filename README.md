@@ -25,3 +25,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 15  | Day 15: Beacon Exclusion Zone   | [Day 15](https://adventofcode.com/2022/day/15) - [Part 2](https://adventofcode.com/2022/day/15#part2) | js          |
 | 16  | Day 16: Proboscidea Volcanium   | [Day 16](https://adventofcode.com/2022/day/16) - [Part 2](https://adventofcode.com/2022/day/16#part2) | js          |
 | 17  | Day 17: Pyroclastic Flow        | [Day 17](https://adventofcode.com/2022/day/17) - [Part 2](https://adventofcode.com/2022/day/17#part2) | js          |
+| 18  | Day 18: Boiling Boulders        | [Day 18](https://adventofcode.com/2022/day/18) - [Part 2](https://adventofcode.com/2022/day/18#part2) | js          |
