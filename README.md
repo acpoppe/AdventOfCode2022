@@ -8,7 +8,7 @@ I don't have any specific objective with these, so projects may be in whatever l
 
 | Day | Title                           | Link                                                                                                  | Language(s) |
 | --- | ------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------- |
-| 1   | Day 1: Calorie Counting         | [Day 1](https://adventofcode.com/2022/day/1) - [Part 2](https://adventofcode.com/2022/day/1#part2)    | js          |
+| 1   | Day 1: Calorie Counting         | [Day 1](https://adventofcode.com/2022/day/1) - [Part 2](https://adventofcode.com/2022/day/1#part2)    | js, rust    |
 | 2   | Day 2: Rock Paper Scissors      | [Day 2](https://adventofcode.com/2022/day/2) - [Part 2](https://adventofcode.com/2022/day/2#part2)    | js          |
 | 3   | Day 3: Rucksack Reorganization  | [Day 3](https://adventofcode.com/2022/day/3) - [Part 2](https://adventofcode.com/2022/day/3#part2)    | js          |
 | 4   | Day 4: Camp Cleanup             | [Day 4](https://adventofcode.com/2022/day/4) - [Part 2](https://adventofcode.com/2022/day/4#part2)    | js          |
@@ -26,3 +26,4 @@ I don't have any specific objective with these, so projects may be in whatever l
 | 16  | Day 16: Proboscidea Volcanium   | [Day 16](https://adventofcode.com/2022/day/16) - [Part 2](https://adventofcode.com/2022/day/16#part2) | js          |
 | 17  | Day 17: Pyroclastic Flow        | [Day 17](https://adventofcode.com/2022/day/17) - [Part 2](https://adventofcode.com/2022/day/17#part2) | js          |
 | 18  | Day 18: Boiling Boulders        | [Day 18](https://adventofcode.com/2022/day/18) - [Part 2](https://adventofcode.com/2022/day/18#part2) | js          |
+| 19  | Day 19: Not Enough Minerals     | [Day 19](https://adventofcode.com/2022/day/19) - [Part 2](https://adventofcode.com/2022/day/19#part2) | js          |

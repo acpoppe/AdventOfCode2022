@@ -1,0 +1,1 @@
+Credit to [fspoettel](https://github.com/fspoettel/advent-of-code-rust) for the template.
